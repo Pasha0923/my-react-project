@@ -44,11 +44,3 @@ If you want to join the project, please follow these steps:
 1. Please fork the repository
 2. Create a new branch with a descriptive name
 3. Сreate a pull request
-
-```
-
-```
-
-```
-
-```
