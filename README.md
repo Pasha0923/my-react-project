@@ -7,12 +7,17 @@ Camper-Rent is a web application for renting campers
 1. Clone the repository.
 2. Install dependencies using npm:
 
-`bash npm install`
+```bash
+ npm install
+```
 
 # Usage
 
 Start the development server:
-`bash npm npm run dev`
+
+```bash
+npm run dev
+```
 
 The project will be open in the browser at http://localhost:3000
 
@@ -39,6 +44,10 @@ If you want to join the project, please follow these steps:
 1. Please fork the repository
 2. Create a new branch with a descriptive name
 3. Сreate a pull request
+
+```
+
+```
 
 ```
 
